@@ -2,9 +2,6 @@
 
 A complete **Machine Learning project** to predict home prices in Bangalore.  
 This project covers **data cleaning, preprocessing, outlier removal, feature engineering, model building, hyperparameter tuning, and deployment with Flask**.
-
-
-
 ## 📌 Project Overview
 
 - Cleaned and preprocessed raw housing data (`banglore_hous_price.csv`)  
