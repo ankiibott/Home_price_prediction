@@ -15,7 +15,7 @@ This project covers **data cleaning, preprocessing, outlier removal, feature eng
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset `banglore_hous_price.csv` contains the following features:
 
