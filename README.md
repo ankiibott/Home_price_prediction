@@ -6,7 +6,7 @@ This project covers **data cleaning, preprocessing, outlier removal, feature eng
 
 - Cleaned and preprocessed raw housing data (`banglore_hous_price.csv`)  
 - Removed outliers and handled missing values  
-- Performed **feature engineering** by creating a new column: `price_per_sqft`
+- Performed **feature engineering** by creating a new column: `price_per_sqft
 - Encoded location data into one-hot vectors  
 - Trained models using **Linear Regression, Lasso, and Decision Tree Regressor**  
 - Tuned hyperparameters using **GridSearchCV**  
