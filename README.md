@@ -1,4 +1,4 @@
- Bangalore Home Price Prediction 
+ Bangalore Home Price Predictio
 
  
 A complete **Machine Learning project** to predict home prices in Bangalore.  
